@@ -1,6 +1,6 @@
 # Dataiku Internship Questions
 
-Put the file "us_census_full.zip" in the same directory as my two files and unzip it.
+Please put the file "us_census_full.zip" in the same directory as my two files and unzip it.
 
 "dataiku_answer.ipynb" is my main file, code and explanation are mixed together.
 
